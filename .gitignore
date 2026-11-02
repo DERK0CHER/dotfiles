@@ -1,0 +1,4 @@
+.DS_Store
+# written by nvim at runtime
+nvim/sessions/
+nvim/spell/*.spl
